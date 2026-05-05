@@ -149,8 +149,8 @@ Estudiante del último año del **Instituto Politécnico Modelo**, con foco en p
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=albanofazzito&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=a0a0b0&rank_icon=github" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albanofazzito&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=a0a0b0" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=albanofazzito&theme=github_dark" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=albanofazzito&theme=github_dark" />
 </div>
 
 <div align="center">
