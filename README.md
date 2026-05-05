@@ -8,7 +8,7 @@
   <a href="mailto:albanofazzito@gmail.com">
     <img src="https://img.shields.io/badge/Email-albanofazzito%40gmail.com-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" />
   </a>
-  <a href="https://www.linkedin.com/in/albanofazzito" target="_blank">
+  <a href="[https://www.linkedin.com/in/albanofazzito](https://www.linkedin.com/in/albano-fazzito-36b370387/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" />
   </a>
   <img src="https://img.shields.io/badge/Buenos%20Aires-Argentina-0a0a0a?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1a2e" />
