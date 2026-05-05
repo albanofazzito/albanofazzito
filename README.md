@@ -150,11 +150,11 @@ Estudiante del último año del **Instituto Politécnico Modelo**, con foco en p
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=albanofazzito&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=a0a0b0&rank_icon=github" />
-  <img height="160" src="https://github-albanofazzito-stats.vercel.app/api/top-langs/?username=albanofazzito&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=a0a0b0" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albanofazzito&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=a0a0b0" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=albanofazzito&theme=github-dark-blue&hide_border=true&background=0d1117&ring=6366f1&fire=f59e0b&currStreakLabel=a0a0b0" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=albanofazzito&bg_color=0d1117&color=6366f1&line=6366f1&point=f59e0b&area=true&hide_border=true" />
 </div>
 
 ---
