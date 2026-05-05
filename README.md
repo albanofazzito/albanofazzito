@@ -31,7 +31,7 @@ desarrollador = {
     "educación":  "Técnico en Computación — Instituto Politécnico Modelo (último año)",
     "enfoque":    ["Desarrollo Web", "Programación OOP", "Bases de Datos"],
     "buscando":   "Primera experiencia laboral · Pasantías · Proyectos colaborativos",
-    "idiomas":    ["Español 🇦🇷 (nativo)", "Inglés 🇺🇸 (intermedio)"],
+    "idiomas":    ["Español 🇦🇷 (nativo)", "Inglés 🇺🇸 (avanzado)"],
     "contacto":   "albanofazzito@gmail.com  |  +54 9 11 3379-3585",
 }
 ```
