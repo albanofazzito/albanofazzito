@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Email-albanofazzito%40gmail.com-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" />
   </a>
   <a href="https://www.linkedin.com/in/albano-fazzito-36b370387/">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" />
+    <img src="https://img.shields.io/badge/LinkedIn-Albano Fazzito-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" />
   </a>
   <img src="https://img.shields.io/badge/Buenos%20Aires-Argentina-0a0a0a?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1a2e" />
   <img src="https://img.shields.io/badge/Open%20to-Pasantías%20%26%20Proyectos-22c55e?style=for-the-badge&labelColor=1a1a2e" />
