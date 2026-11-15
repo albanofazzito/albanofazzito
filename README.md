@@ -1,18 +1,18 @@
 <div align="center">
 
 <!-- Banner animado -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=200&section=header&text=Albano%20Fazzito&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Estudiante%20·%20Técnico%20en%20Computación&descAlignY=58&descSize=18&descColor=a0a0b0&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=200&section=header&text=Albano%20Fazzito&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Técnico%20en%20Programación%20·%20Pasante%20de%20Desarrollo%20en%20la%20UBA&descAlignY=58&descSize=18&descColor=a0a0b0&animation=fadeIn" />
 
 <!-- Badges de estado -->
 <p>
   <a href="mailto:albanofazzito@gmail.com">
     <img src="https://img.shields.io/badge/Email-albanofazzito%40gmail.com-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" />
   </a>
-  <a href="https://www.linkedin.com/in/albano-fazzito-36b370387/">
+  <a href="https://www.linkedin.com/in/albanofazzito/">
     <img src="https://img.shields.io/badge/LinkedIn-Albano Fazzito-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" />
   </a>
   <img src="https://img.shields.io/badge/Buenos%20Aires-Argentina-0a0a0a?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/Open%20to-Pasantías%20%26%20Proyectos-22c55e?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Open%20to-Desarrollo%20de%20Software-22c55e?style=for-the-badge&labelColor=1a1a2e" />
 </p>
 
 <!-- Visitantes -->
@@ -28,17 +28,28 @@
 desarrollador = {
     "nombre":     "Albano Fazzito",
     "ubicación":  "Buenos Aires, Argentina 🇦🇷",
-    "educación":  "Técnico en Computación — Instituto Politécnico Modelo (último año)",
-    "enfoque":    ["Desarrollo Web", "Programación OOP", "Bases de Datos"],
-    "buscando":   "Primera experiencia laboral · Pasantías · Proyectos colaborativos",
-    "idiomas":    ["Español 🇦🇷 (nativo)", "Inglés 🇺🇸 (avanzado)"],
+    "educación":  "Técnico en Programación — Instituto Politécnico Modelo (último año, egreso 2026)",
+    "experiencia": "Pasante de Desarrollo de Software (Automatización) — Universidad de Buenos Aires",
+    "enfoque":    ["Desarrollo de Software", "Automatización con Google Apps Script", "IA aplicada"],
+    "buscando":   "Primer rol como desarrollador de software · Proyectos colaborativos",
+    "idiomas":    ["Español 🇦🇷 (nativo)", "Inglés 🇺🇸 (avanzado · Cambridge B2 First, calificación A)"],
     "contacto":   "albanofazzito@gmail.com  |  +54 9 11 3379-3585",
 }
 ```
 
-Estudiante del último año del **Instituto Politécnico Modelo**, con foco en programación de software y desarrollo web. Aunque todavía no tengo experiencia laboral formal, dedico mi tiempo libre a aprender nuevas tecnologías, completar cursos online y construir proyectos propios.
+Estudiante del último año de **Técnico en Programación** en el **Instituto Politécnico Modelo** y pasante de desarrollo de software en la **Universidad de Buenos Aires**, donde automatizo procesos con Google Apps Script e integro inteligencia artificial. En mi tiempo libre sigo aprendiendo nuevas tecnologías y construyendo proyectos propios, desde visión por computadora hasta hardware.
 
-> **Disponible para** pasantías, trabajos part-time o colaboraciones donde pueda seguir creciendo y aportar valor real.
+> **Disponible para** mi primer rol como desarrollador de software y proyectos colaborativos donde pueda seguir creciendo y aportar valor real.
+
+---
+
+## 💼 Experiencia
+
+### Pasante de Desarrollo de Software (Automatización) — Universidad de Buenos Aires
+*Remoto · mayo 2026 – actualidad*
+
+- Optimicé scripts de **Google Apps Script** (JavaScript) que automatizan procesos en múltiples hojas de cálculo de Google Sheets.
+- Desarrollé un **complemento (Add-on) para Gmail** que permite enviar audios dentro del correo y genera automáticamente su transcripción y un resumen con la **API de Gemini**.
 
 ---
 
@@ -55,6 +66,17 @@ Estudiante del último año del **Instituto Politécnico Modelo**, con foco en p
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
+</p>
+
+### Automatización & IA
+<p>
+  <img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail%20Add--ons-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visión%20por%20Computadora-6366f1?style=for-the-badge" />
 </p>
 
 ### Bases de Datos & Herramientas
@@ -101,7 +123,7 @@ Estudiante del último año del **Instituto Politécnico Modelo**, con foco en p
     <td width="50%" valign="top">
       <h3>✂️ Piedra Papel Tijera — con IA</h3>
       <p>
-        Versión extendida del juego clásico. Una IA entrenada con visión por computadora reconoce gestos de la mano en tiempo real a través de la cámara, soportando más de 3 gestos tradicionales.
+        Versión extendida del juego clásico. Una IA propia, entrenada con visión por computadora, reconoce gestos de la mano en tiempo real a través de la cámara, soporta más de 3 gestos y decide el ganador.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -138,9 +160,10 @@ Estudiante del último año del **Instituto Politécnico Modelo**, con foco en p
 
 | 🏫 Institución | 📖 Formación | 📅 Año |
 |---|---|---|
-| **Instituto Politécnico Modelo** | Técnico en Computación *(en curso)* | 2020 — Presente |
+| **Instituto Politécnico Modelo** | Técnico en Programación *(último año)* | 2021 — 2026 |
 | **Cisco Networking Academy** | Introducción a Redes — 60+ hs | 2025 |
-| **Oracle Foundation** | Oracle Java Foundations | 2025 |
+| **Oracle** | Oracle Java Foundations | 2025 |
+| **Cambridge University Press & Assessment** | Cambridge B2 First (FCE) — calificación A | 2024 |
 
 **Materias destacadas:** Programación OOP · Bases de Datos · Redes · Desarrollo de Sistemas
 
@@ -179,5 +202,5 @@ Estudiante del último año del **Instituto Politécnico Modelo**, con foco en p
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=100&section=footer&fontColor=a0a0b0&fontSize=13" />
-  <sub>Hecho con 💜 desde Buenos Aires, Argentina · <strong>Albano Fazzito</strong> · 2025</sub>
+  <sub>Hecho con 💜 desde Buenos Aires, Argentina · <strong>Albano Fazzito</strong> · 2026</sub>
 </div>
